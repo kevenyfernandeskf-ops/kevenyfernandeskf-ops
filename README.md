@@ -1,14 +1,30 @@
-# Olá, eu sou Keveny Fernandes 👋
+<div align="center">
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas na FIAP**  
-💻 Em formação para atuar com **Desenvolvimento de Software**  
-🚀 Construindo projetos práticos para evoluir meus conhecimentos em programação, engenharia de software e desenvolvimento de aplicações.
+# 👋 Olá, eu sou Keveny Fernandes
 
-Atualmente estou aprofundando meus estudos em **Java e Programação Orientada a Objetos**, enquanto também desenvolvo conhecimentos em tecnologias Front-end e Banco de Dados.
+### Estudante de Análise e Desenvolvimento de Sistemas na FIAP
+
+💻 Desenvolvimento de Software • Java • Front-end • Banco de Dados
+
+🚀 Construindo projetos práticos para evoluir em programação, engenharia de software e desenvolvimento de aplicações.
+
+</div>
 
 ---
 
-## 💻 Tecnologias e conhecimentos
+## 👨‍💻 Sobre mim
+
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, em formação para atuar com **Desenvolvimento de Software**.
+
+Atualmente estou aprofundando meus conhecimentos em **Java e Programação Orientada a Objetos**, além de desenvolver projetos envolvendo Front-end, Banco de Dados, modelagem de sistemas e Engenharia de Software.
+
+Meu objetivo é conquistar uma oportunidade de **estágio em Tecnologia / Desenvolvimento de Software**, aplicando na prática os conhecimentos adquiridos durante minha formação.
+
+---
+
+## 🧰 Tecnologias e conhecimentos
+
+<div align="center">
 
 ### Back-end e Programação
 
@@ -32,15 +48,25 @@ Atualmente estou aprofundando meus estudos em **Java e Programação Orientada a
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
 ---
 
-## 🚀 Projeto em destaque
+## 🚀 Projetos em destaque
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
 
 ### 💳 Fintech Risk Engine
 
-Motor educacional de análise de risco de transações financeiras desenvolvido em **Java**, utilizando regras de negócio e sistema de pontuação.
+Motor educacional de análise de risco de transações financeiras desenvolvido em **Java**.
 
-O projeto aplica conceitos como:
+O projeto utiliza regras de negócio e um sistema de pontuação para classificar transações conforme diferentes critérios.
+
+**Conceitos aplicados:**
 
 - Programação Orientada a Objetos
 - Encapsulamento
@@ -52,29 +78,61 @@ O projeto aplica conceitos como:
 - Enum
 - Separação de responsabilidades
 
-🔗 [Ver projeto no GitHub](https://github.com/kevenyfernandeskf-ops/fintech-risk-engine)
+🔗 [Ver repositório](https://github.com/kevenyfernandeskf-ops/fintech-risk-engine)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛰️ Próximos projetos
+
+Outros projetos acadêmicos e pessoais serão adicionados gradualmente ao portfólio.
+
+Entre eles:
+
+- **SatGuard**
+- **VisionFlow / JOVI**
+- **Fintech**
+
+Cada projeto será documentado com foco nas tecnologias, decisões de desenvolvimento e conhecimentos aplicados.
+
+</td>
+
+</tr>
+</table>
 
 ---
 
 ## 📚 Atualmente estudando
 
-- Java e Programação Orientada a Objetos
-- Desenvolvimento Back-end
-- Engenharia de Software
-- Banco de Dados
-- Desenvolvimento Front-end
-- Git e GitHub
+<details>
+<summary><b>Ver áreas de estudo</b></summary>
+
+<br>
+
+- ☕ Java e Programação Orientada a Objetos
+- ⚙️ Desenvolvimento Back-end
+- 🧩 Engenharia de Software
+- 🗄️ Banco de Dados
+- 🌐 Desenvolvimento Front-end
+- 🔧 Git e GitHub
+
+</details>
 
 ---
 
 ## 🎯 Objetivo profissional
 
-Busco uma oportunidade de **estágio em Tecnologia / Desenvolvimento de Software**, onde possa aplicar os conhecimentos adquiridos durante minha formação, aprender com projetos reais e evoluir como desenvolvedor.
+Busco uma oportunidade de **estágio em Tecnologia / Desenvolvimento de Software**, onde eu possa contribuir com projetos reais, aprender com profissionais da área e continuar evoluindo tecnicamente.
 
 ---
 
 ## 📫 Contato
 
+<div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Keveny_Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keveny-fernandes-ads/)
 
 📍 São Paulo - SP
+
+</div>
