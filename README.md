@@ -1,138 +1,148 @@
 <div align="center">
 
-# 👋 Olá, eu sou Keveny Fernandes
+Olá, eu sou o Keveny! 👋
 
-### Estudante de Análise e Desenvolvimento de Sistemas na FIAP
+Estudante de Análise e Desenvolvimento de Sistemas na FIAP
 
-💻 Desenvolvimento de Software • Java • Front-end • Banco de Dados
+Desenvolvedor Full Stack em formação | Em busca de estágio em Desenvolvimento de Software
 
-🚀 Construindo projetos práticos para evoluir em programação, engenharia de software e desenvolvimento de aplicações.
+📍 São Paulo, Brasil · 💻 Projetos acadêmicos e pessoais · 🚀 Aprendizado contínuo
 
-</div>
-
----
-
-## 👨‍💻 Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, em formação para atuar com **Desenvolvimento de Software**.
-
-Atualmente estou aprofundando meus conhecimentos em **Java e Programação Orientada a Objetos**, além de desenvolver projetos envolvendo Front-end, Banco de Dados, modelagem de sistemas e Engenharia de Software.
-
-Meu objetivo é conquistar uma oportunidade de **estágio em Tecnologia / Desenvolvimento de Software**, aplicando na prática os conhecimentos adquiridos durante minha formação.
-
----
-
-## 🧰 Tecnologias e conhecimentos
-
-<div align="center">
-
-### Back-end e Programação
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Front-end
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### Banco de Dados e Modelagem
-
-![Oracle](https://img.shields.io/badge/Oracle_Data_Modeler-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-
-### Ferramentas
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+LinkedIn
+GitHub
 
 </div>
 
----
+────────
 
-## 🚀 Projetos em destaque
+👨‍💻 Sobre mim
 
-<table>
-<tr>
+Sou graduando em Análise e Desenvolvimento de Sistemas na FIAP, com foco em desenvolvimento Full Stack. Venho consolidando meus conhecimentos por meio de projetos que envolvem programação, modelagem de sistemas, bancos de dados, interfaces web e integração entre aplicações.
 
-<td width="50%" valign="top">
+Já trabalhei em atividades práticas com Java, programação orientada a objetos, SQL, Oracle Database, JDBC e padrão DAO, além de desenvolver interfaces e funcionalidades com HTML, CSS, JavaScript e Tailwind CSS.
 
-### 💳 Fintech Risk Engine
+Atualmente, estou aprofundando meus estudos em Spring Boot, React, Node.js, TypeScript, Vite e APIs REST, com atenção especial à comunicação entre Front-end e Back-end e ao processo de deploy.
 
-Motor educacional de análise de risco de transações financeiras desenvolvido em **Java**.
+Antes de iniciar minha transição para tecnologia, atuei nas áreas administrativa, financeira e de gestão. Essa experiência contribuiu para minha organização, comunicação, análise de processos e visão de negócio.
 
-O projeto utiliza regras de negócio e um sistema de pontuação para classificar transações conforme diferentes critérios.
+🎯 Objetivo: conquistar uma oportunidade de estágio em Desenvolvimento de Software, contribuindo com projetos reais e evoluindo tecnicamente em equipe.
 
-**Conceitos aplicados:**
+🛠️ Tecnologias e ferramentas
 
-- Programação Orientada a Objetos
-- Encapsulamento
-- Abstração
-- Herança
-- Polimorfismo
-- Classes abstratas
-- Collections
-- Enum
-- Separação de responsabilidades
+Linguagens e fundamentos já utilizados em estudos e projetos
 
-🔗 [Ver repositório](https://github.com/kevenyfernandeskf-ops/fintech-risk-engine)
+Java
+Python
+JavaScript
+SQL
+HTML5
+CSS3
 
-</td>
+Banco de dados, desenvolvimento e ferramentas
 
-<td width="50%" valign="top">
+Oracle
+Git
+GitHub
+Tailwind CSS
+IntelliJ IDEA
+VS Code
+Figma
 
-### 🛰️ Próximos projetos
+Em aprofundamento
 
-Outros projetos acadêmicos e pessoais serão adicionados gradualmente ao portfólio.
+Spring Boot
+React
+Node.js
+TypeScript
+Vite
 
-Entre eles:
+Conceitos: POO · UML · Engenharia de Software · Scrum · JDBC · DAO · APIs REST · CRUD · Modelagem relacional · Versionamento
 
-- **SatGuard**
-- **VisionFlow / JOVI**
-- **Fintech**
+🚀 Projetos e experiências práticas
 
-Cada projeto será documentado com foco nas tecnologias, decisões de desenvolvimento e conhecimentos aplicados.
+💳 Fintech — Evolução de uma aplicação financeira
 
-</td>
+Projeto acadêmico desenvolvido em etapas, passando por modelagem de dados, Java e POO, persistência em Oracle e integração de aplicações.
 
-</tr>
-</table>
+• Modelagem de entidades como usuários, contas financeiras, categorias, receitas, despesas e investimentos.
+• Implementação de classes Java com encapsulamento, herança, abstração e polimorfismo.
+• Integração com Oracle Database via JDBC, utilizando DAO para operações de acesso aos dados.
+• Testes de cadastro e recuperação de registros de usuários, contas e investimentos.
+• Evolução dos estudos para uma arquitetura com Spring Boot, APIs REST e React.
 
----
+Tecnologias envolvidas: Java · Oracle Database · SQL · JDBC · DAO · Maven · Spring Boot e React (em evolução).
 
-## 📚 Atualmente estudando
+🔗 Ver repositório do dashboard Fintech
 
-<details>
-<summary><b>Ver áreas de estudo</b></summary>
+📸 VisionFlow — Challenge FIAP × JOVI
 
-<br>
+Projeto de interface web com recursos relacionados à captura e à organização de imagens.
 
-- ☕ Java e Programação Orientada a Objetos
-- ⚙️ Desenvolvimento Back-end
-- 🧩 Engenharia de Software
-- 🗄️ Banco de Dados
-- 🌐 Desenvolvimento Front-end
-- 🔧 Git e GitHub
+• Desenvolvimento de interface responsiva e fluxo de navegação.
+• Implementação de captura pela câmera, pré-visualização e galeria.
+• Recursos de edição de imagem e compartilhamento, conforme suporte do navegador.
+• Trabalho colaborativo em equipe, com foco em experiência do usuário.
 
-</details>
+Tecnologias: HTML5 · CSS3 · JavaScript · Tailwind CSS.
 
----
+🛰️ SatGuard — Global Solution
 
-## 🎯 Objetivo profissional
+Projeto acadêmico interdisciplinar com foco em uma solução para o contexto da indústria espacial.
 
-Busco uma oportunidade de **estágio em Tecnologia / Desenvolvimento de Software**, onde eu possa contribuir com projetos reais, aprender com profissionais da área e continuar evoluindo tecnicamente.
+• Levantamento de requisitos e estruturação da proposta.
+• Modelagem UML, organização de dados e prototipação.
+• Documentação técnica e desenvolvimento colaborativo.
 
----
+Áreas trabalhadas: Engenharia de Software · UML · Modelagem de Dados · Prototipação.
 
-## 📫 Contato
+🏙️ CidadeAtiva — Zeladoria inteligente
+
+Proposta acadêmica de solução digital voltada à gestão de demandas urbanas.
+
+• Definição da arquitetura da solução e dos fluxos principais.
+• Modelagem UML/POO e organização da documentação.
+• Integração entre pesquisa, prototipação e apresentação do projeto em equipe.
+
+Áreas trabalhadas: Arquitetura de Software · UML · Análise de Sistemas · Trabalho em Equipe.
+
+🧪 Estudos e projetos complementares
+
+• Python: exercícios de lógica e projetos de análise financeira.
+• Java: prática de modelagem orientada a objetos e lógica de negócio.
+• Front-end: interfaces web e integração progressiva com serviços e APIs.
+
+> Os projetos representam diferentes etapas da minha formação. Algumas soluções são protótipos acadêmicos e outras seguem em desenvolvimento.
+
+🎓 Formação e certificações
+
+• Análise e Desenvolvimento de Sistemas — FIAP | Em andamento.
+• Qualificação Profissional em Análise de Sistemas e Prototipação Web — FIAP | Gold Certified, junho de 2026.
+• Gestão de Projetos e Fundamentos de Métodos Ágeis — Santander Open Academy | 2026.
+• Cursos e atividades complementares em programação, lógica e tecnologia por plataformas como Alura e IBM SkillsBuild.
+
+📈 GitHub
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Keveny_Fernandes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keveny-fernandes-ads/)
+Estatísticas do GitHub
 
-📍 São Paulo - SP
+Linguagens nos repositórios
+
+</div>
+
+> Os cartões acima dependem de um serviço externo e podem ficar temporariamente indisponíveis. As linguagens exibidas refletem os repositórios analisados, não necessariamente meu nível de domínio.
+
+🤝 Vamos nos conectar?
+
+Estou aberto a oportunidades de estágio, colaboração em projetos e troca de conhecimentos sobre desenvolvimento de software.
+
+📫 LinkedIn: keveny-fernandes-ads
+💻 GitHub: kevenyfernandeskf-ops
+
+────────
+
+<div align="center">
+
+Aprendendo, construindo e evoluindo — um projeto de cada vez. 🚀
 
 </div>
