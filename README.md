@@ -1,148 +1,171 @@
 <div align="center">
 
-Olá, eu sou o Keveny! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071426,45:0C315B,100:00C2FF&text=Keveny%20Fernandes&fontColor=FFFFFF&fontSize=47&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%7C%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descAlignY=60&descSize=17&animation=fadeIn" alt="Banner Keveny Fernandes" width="100%" />
 
-Estudante de Análise e Desenvolvimento de Sistemas na FIAP
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1300&color=00C2FF&center=true&vCenter=true&width=760&lines=Estudante+de+ADS+%40+FIAP;Java+%2B+Oracle+%2B+JDBC+%2B+DAO;Explorando+Spring+Boot+%2B+React+%2B+APIs;Em+busca+de+est%C3%A1gio+em+Desenvolvimento" alt="Apresentação animada" /></a>
 
-Desenvolvedor Full Stack em formação | Em busca de estágio em Desenvolvimento de Software
-
-📍 São Paulo, Brasil · 💻 Projetos acadêmicos e pessoais · 🚀 Aprendizado contínuo
-
-LinkedIn
-GitHub
+<a href="https://www.linkedin.com/in/keveny-fernandes-ads"><img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/kevenyfernandeskf-ops?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Reposit%C3%B3rios-171515?style=for-the-badge&logo=github&logoColor=white" alt="Repositórios GitHub" /></a>
+<img src="https://komarev.com/ghpvc/?username=kevenyfernandeskf-ops&style=for-the-badge&color=0C83B9&label=VISITAS+AO+PERFIL" alt="Contador de visitas" />
 
 </div>
 
-────────
+---
 
-👨‍💻 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou graduando em Análise e Desenvolvimento de Sistemas na FIAP, com foco em desenvolvimento Full Stack. Venho consolidando meus conhecimentos por meio de projetos que envolvem programação, modelagem de sistemas, bancos de dados, interfaces web e integração entre aplicações.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na FIAP**, com foco em **desenvolvimento Full Stack** e interesse em construir soluções úteis para pessoas e negócios.
 
-Já trabalhei em atividades práticas com Java, programação orientada a objetos, SQL, Oracle Database, JDBC e padrão DAO, além de desenvolver interfaces e funcionalidades com HTML, CSS, JavaScript e Tailwind CSS.
+- 🎯 **Objetivo:** estágio em Desenvolvimento de Software, com interesse em Back-end e Full Stack.
+- 💻 **Experiência prática acadêmica:** Java, POO, Python, SQL, Oracle Database, JDBC, DAO e interfaces com HTML, CSS, JavaScript e Tailwind CSS.
+- 🌱 **Estudando atualmente:** Spring Boot, APIs REST, React, Node.js, TypeScript, Vite, integração Front-end/Back-end e deploy.
+- 🧠 **Além do código:** experiência anterior em rotinas administrativas, financeiras e gestão de processos, trazendo visão de negócio para os projetos.
+- 📍 São Paulo, Brasil.
 
-Atualmente, estou aprofundando meus estudos em Spring Boot, React, Node.js, TypeScript, Vite e APIs REST, com atenção especial à comunicação entre Front-end e Back-end e ao processo de deploy.
+## 🧰 Minha stack
 
-Antes de iniciar minha transição para tecnologia, atuei nas áreas administrativa, financeira e de gestão. Essa experiência contribuiu para minha organização, comunicação, análise de processos e visão de negócio.
-
-🎯 Objetivo: conquistar uma oportunidade de estágio em Desenvolvimento de Software, contribuindo com projetos reais e evoluindo tecnicamente em equipe.
-
-🛠️ Tecnologias e ferramentas
-
-Linguagens e fundamentos já utilizados em estudos e projetos
-
-Java
-Python
-JavaScript
-SQL
-HTML5
-CSS3
-
-Banco de dados, desenvolvimento e ferramentas
-
-Oracle
-Git
-GitHub
-Tailwind CSS
-IntelliJ IDEA
-VS Code
-Figma
-
-Em aprofundamento
-
-Spring Boot
-React
-Node.js
-TypeScript
-Vite
-
-Conceitos: POO · UML · Engenharia de Software · Scrum · JDBC · DAO · APIs REST · CRUD · Modelagem relacional · Versionamento
-
-🚀 Projetos e experiências práticas
-
-💳 Fintech — Evolução de uma aplicação financeira
-
-Projeto acadêmico desenvolvido em etapas, passando por modelagem de dados, Java e POO, persistência em Oracle e integração de aplicações.
-
-• Modelagem de entidades como usuários, contas financeiras, categorias, receitas, despesas e investimentos.
-• Implementação de classes Java com encapsulamento, herança, abstração e polimorfismo.
-• Integração com Oracle Database via JDBC, utilizando DAO para operações de acesso aos dados.
-• Testes de cadastro e recuperação de registros de usuários, contas e investimentos.
-• Evolução dos estudos para uma arquitetura com Spring Boot, APIs REST e React.
-
-Tecnologias envolvidas: Java · Oracle Database · SQL · JDBC · DAO · Maven · Spring Boot e React (em evolução).
-
-🔗 Ver repositório do dashboard Fintech
-
-📸 VisionFlow — Challenge FIAP × JOVI
-
-Projeto de interface web com recursos relacionados à captura e à organização de imagens.
-
-• Desenvolvimento de interface responsiva e fluxo de navegação.
-• Implementação de captura pela câmera, pré-visualização e galeria.
-• Recursos de edição de imagem e compartilhamento, conforme suporte do navegador.
-• Trabalho colaborativo em equipe, com foco em experiência do usuário.
-
-Tecnologias: HTML5 · CSS3 · JavaScript · Tailwind CSS.
-
-🛰️ SatGuard — Global Solution
-
-Projeto acadêmico interdisciplinar com foco em uma solução para o contexto da indústria espacial.
-
-• Levantamento de requisitos e estruturação da proposta.
-• Modelagem UML, organização de dados e prototipação.
-• Documentação técnica e desenvolvimento colaborativo.
-
-Áreas trabalhadas: Engenharia de Software · UML · Modelagem de Dados · Prototipação.
-
-🏙️ CidadeAtiva — Zeladoria inteligente
-
-Proposta acadêmica de solução digital voltada à gestão de demandas urbanas.
-
-• Definição da arquitetura da solução e dos fluxos principais.
-• Modelagem UML/POO e organização da documentação.
-• Integração entre pesquisa, prototipação e apresentação do projeto em equipe.
-
-Áreas trabalhadas: Arquitetura de Software · UML · Análise de Sistemas · Trabalho em Equipe.
-
-🧪 Estudos e projetos complementares
-
-• Python: exercícios de lógica e projetos de análise financeira.
-• Java: prática de modelagem orientada a objetos e lógica de negócio.
-• Front-end: interfaces web e integração progressiva com serviços e APIs.
-
-> Os projetos representam diferentes etapas da minha formação. Algumas soluções são protótipos acadêmicos e outras seguem em desenvolvimento.
-
-🎓 Formação e certificações
-
-• Análise e Desenvolvimento de Sistemas — FIAP | Em andamento.
-• Qualificação Profissional em Análise de Sistemas e Prototipação Web — FIAP | Gold Certified, junho de 2026.
-• Gestão de Projetos e Fundamentos de Métodos Ágeis — Santander Open Academy | 2026.
-• Cursos e atividades complementares em programação, lógica e tecnologia por plataformas como Alura e IBM SkillsBuild.
-
-📈 GitHub
+> **Tecnologias aplicadas em estudos e projetos** — o conjunto abaixo representa experiência prática acadêmica, não domínio avançado de todas as ferramentas.
 
 <div align="center">
 
-Estatísticas do GitHub
+**Linguagens e Web**
 
-Linguagens nos repositórios
+<img src="https://skillicons.dev/icons?i=java,python,js,html,css&theme=dark" alt="Java, Python, JavaScript, HTML e CSS" />
+
+**Dados, ferramentas e design**
+
+<img src="https://skillicons.dev/icons?i=git,github,idea,vscode,figma,tailwind,maven&theme=dark" alt="Git, GitHub, IntelliJ IDEA, VS Code, Figma, Tailwind CSS e Maven" />
+
+<img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Database" />
+<img src="https://img.shields.io/badge/SQL-1F6E8C?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/JDBC-123C69?style=for-the-badge" alt="JDBC" />
+<img src="https://img.shields.io/badge/DAO-123C69?style=for-the-badge" alt="DAO" />
+
+**Em desenvolvimento / aprofundamento**
+
+<img src="https://skillicons.dev/icons?i=spring,react,nodejs,ts,vite&theme=dark" alt="Spring Boot, React, Node.js, TypeScript e Vite" />
 
 </div>
 
-> Os cartões acima dependem de um serviço externo e podem ficar temporariamente indisponíveis. As linguagens exibidas refletem os repositórios analisados, não necessariamente meu nível de domínio.
+<details>
+<summary><b>📚 Conceitos e práticas que venho estudando</b> — clique para expandir</summary>
+<br />
 
-🤝 Vamos nos conectar?
+`POO` · `Encapsulamento` · `Herança` · `Polimorfismo` · `UML` · `Engenharia de Software` · `Scrum` · `Modelagem Relacional` · `CRUD` · `JDBC` · `DAO` · `APIs REST` · `Git` · `Integração Front-end/Back-end`
 
-Estou aberto a oportunidades de estágio, colaboração em projetos e troca de conhecimentos sobre desenvolvimento de software.
+</details>
 
-📫 LinkedIn: keveny-fernandes-ads
-💻 GitHub: kevenyfernandeskf-ops
+---
 
-────────
+## 🚀 Projetos em destaque
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💳 Fintech — Java + Oracle
+
+Aplicação financeira acadêmica desenvolvida em etapas: modelagem relacional, **POO**, acesso ao **Oracle Database via JDBC/DAO** e testes de cadastro e consulta de usuários, contas e investimentos.
+
+**Stack:** `Java` `SQL` `Oracle` `JDBC` `DAO` `Maven`
+
+**Evolução em estudo:** `Spring Boot` `React` `APIs REST`
+
+[**🔗 Ver dashboard no GitHub**](https://github.com/kevenyfernandeskf-ops/fintech-dashboard)
+
+</td>
+<td width="50%" valign="top">
+
+### 📸 VisionFlow — FIAP × JOVI
+
+Interface web para captura de imagens, pré-visualização, galeria, ajustes visuais e compartilhamento, com foco em experiência do usuário e trabalho em equipe.
+
+**Stack:** `HTML5` `CSS3` `JavaScript` `Tailwind CSS`
+
+**Destaque:** integração com recursos de câmera do navegador e fluxo de edição.
+
+[**🔎 Explorar meus repositórios**](https://github.com/kevenyfernandeskf-ops?tab=repositories)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏙️ CidadeAtiva — Zeladoria inteligente
+
+Proposta acadêmica de solução para demandas urbanas. Atuação na **arquitetura da solução**, modelagem UML/POO, fluxo do sistema e consolidação da documentação e apresentação.
+
+**Áreas:** `Arquitetura` `UML` `Análise de Sistemas` `Documentação`
+
+[**🔎 Explorar meus repositórios**](https://github.com/kevenyfernandeskf-ops?tab=repositories)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛰️ SatGuard — Global Solution
+
+Projeto interdisciplinar voltado ao contexto da indústria espacial, com levantamento de requisitos, modelagem, prototipação e documentação técnica colaborativa.
+
+**Áreas:** `Engenharia de Software` `UML` `Modelagem de Dados` `Prototipação`
+
+[**🔎 Explorar meus repositórios**](https://github.com/kevenyfernandeskf-ops?tab=repositories)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🧪 Outros estudos e experimentos</b> — clique para expandir</summary>
+<br />
+
+- **Python:** exercícios de lógica e análises financeiras.
+- **Java:** modelagem orientada a objetos, regras de negócio e persistência de dados.
+- **Front-end:** interfaces responsivas e funcionalidades interativas.
+- **Full Stack:** estudos de serviços REST, integração entre aplicações e publicação de projetos.
+
+</details>
+
+> 💡 **Transparência:** os projetos representam diferentes fases da minha formação; alguns são protótipos acadêmicos ou estão em evolução. Links específicos são incluídos somente quando conhecidos.
+
+---
+
+## 🎓 Formação e conquistas
+
+- 🎓 **FIAP** — Análise e Desenvolvimento de Sistemas *(graduação em andamento)*.
+- 🥇 **FIAP — Gold Certified** — Qualificação Profissional em **Análise de Sistemas e Prototipação Web** *(junho/2026)*.
+- 📘 **Santander Open Academy** — Gestão de Projetos e Fundamentos de Métodos Ágeis *(2026)*.
+- 📚 Estudos complementares por **Alura** e **IBM SkillsBuild**.
+
+---
+
+## 📊 GitHub em números
 
 <div align="center">
 
-Aprendendo, construindo e evoluindo — um projeto de cada vez. 🚀
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kevenyfernandeskf-ops&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true" alt="Estatísticas do GitHub" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevenyfernandeskf-ops&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens dos repositórios" />
+
+<img src="https://streak-stats.demolab.com?user=kevenyfernandeskf-ops&theme=tokyonight&hide_border=true" alt="Sequência de contribuições no GitHub" />
+
+</div>
+
+<sub>Os gráficos são gerados por serviços externos e podem ficar temporariamente indisponíveis. As estatísticas refletem atividade nos repositórios, não nível de proficiência.</sub>
+
+---
+
+<div align="center">
+
+### 🤝 Vamos nos conectar?
+
+Estou aberto a **estágios em Desenvolvimento de Software**, colaboração em projetos e troca de conhecimentos.
+
+<a href="https://www.linkedin.com/in/keveny-fernandes-ads"><img src="https://img.shields.io/badge/Conversar%20no%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Conversar no LinkedIn" /></a>
+<a href="https://github.com/kevenyfernandeskf-ops?tab=repositories"><img src="https://img.shields.io/badge/Explorar%20projetos-171515?style=for-the-badge&logo=github&logoColor=white" alt="Explorar projetos" /></a>
+
+<br /><br />
+
+*Aprendendo, construindo e evoluindo — um projeto de cada vez.* 🚀
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:071426,45:0C315B,100:00C2FF" alt="Rodapé decorativo" width="100%" />
 
 </div>
